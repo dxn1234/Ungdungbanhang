@@ -26,7 +26,8 @@
         <activity android:name=".activity.LapTopActivity" />
         <activity android:name=".activity.ChiTietActivity" />
         <activity android:name=".activity.GioHangActivity" />
-        <activity android:name=".activity.KhachHangActivity"></activity>
+        <activity android:name=".activity.KhachHangActivity" />
+        <activity android:name=".activity.ChanDoiActivity"></activity>
     </application>
 
 </manifest>
